@@ -6,3 +6,6 @@ Datasets/Preprocesados/coursera_courses.csv
 Datasets/Preprocesados/edx_courses.csv
 Datasets/Preprocesados/udemy_courses.csv
 Henry-PI-DA.code-workspace
+Datasets/Originales/courses.csv
+Datasets/Originales/instructors.csv
+Datasets/Originales/udemy_courses_1.csv
