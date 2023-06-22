@@ -1,4 +1,4 @@
-<p align=center><img src=https://www.abatic.es/wp-content/uploads/2018/02/MOOC.png><p>
+<p align=center><img src=https://www.abatic.es/wp-content/uploads/2018/02/MOOC.png width="500px"><p>
 
 # <h1 align=center>**`Proyecto Individual: Análisis de Datos de Plataformas MOOC`**</h1>
 
