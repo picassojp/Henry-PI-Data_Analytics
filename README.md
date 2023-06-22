@@ -1,4 +1,4 @@
-# Proyecto Individual: Analisis de Datos de Plataformas MOOC
+# Proyecto Individual: Análisis de Datos de Plataformas MOOC
 
 Este repositorio es un proyecto individual cuyo objetivo es la generación de indicadores claves de rendimiento (KPI, por sus siglas en inglés) para el negocio de cursos de tipo MOOC. Inicialmente, se procesaron los datos de plataformas reconocidas que ofrecen este tipo de cursos para luego desarrollar un análisis exploratorio con la intención de descubrir información de utilidad. Posteriormente, se diseño un _dashboard_ para presentar la métricas necesarias para el seguimiento de los KPIs propuestos. El preprocesamiento y análisis se desarrollo con librerías de lenguaje Python. El tablero se generó mediante el programa _Power BI_. Este proyecto fue desarrollado durante la etapa de Labs del _bootcamp_ de Henry. A continuación, se describen cada una de las etapas en las que se organizó el proyecto.
 
@@ -37,4 +37,4 @@ Los KPIs diseñados y el seguimiento de las métricas asociadas se realizó medi
 El _dashboard_ se encuentra disponible como archivo de [_Power BI_](https://github.com/picassojp/Henry-PI-Data_Analytics/blob/54a9704eaaa2731f737748d842f21e95fc463582/dash_board.pbix).
 
 **`Mantenimiento`**
-Este proyecto es mantenido por Juan Pablo Picasso. Si tienes alguna pregunta o encuentras algún problema, por favor, [contactame](www.linkedin.com/in/picassojp).
+Este proyecto es mantenido por Juan Pablo Picasso. Si tienes alguna pregunta o encuentras algún problema, por favor, [contactame](https://www.linkedin.com/in/picassojp).
