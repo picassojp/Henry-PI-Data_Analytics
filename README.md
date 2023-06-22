@@ -1,4 +1,7 @@
-# Proyecto Individual: Análisis de Datos de Plataformas MOOC
+<p align=center><img src=https://www.abatic.es/wp-content/uploads/2018/02/MOOC.png><p>
+
+# <h1 align=center>**`Proyecto Individual: Análisis de Datos de Plataformas MOOC`**</h1>
+
 
 Este repositorio es un proyecto individual cuyo objetivo es la generación de indicadores claves de rendimiento (KPI, por sus siglas en inglés) para el negocio de cursos de tipo MOOC. Inicialmente, se procesaron los datos de plataformas reconocidas que ofrecen este tipo de cursos para luego desarrollar un análisis exploratorio con la intención de descubrir información de utilidad. Posteriormente, se diseño un _dashboard_ para presentar la métricas necesarias para el seguimiento de los KPIs propuestos. El preprocesamiento y análisis se desarrollo con librerías de lenguaje Python. El tablero se generó mediante el programa _Power BI_. Este proyecto fue desarrollado durante la etapa de Labs del _bootcamp_ de Henry. A continuación, se describen cada una de las etapas en las que se organizó el proyecto.
 
